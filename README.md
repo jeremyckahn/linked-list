@@ -10,8 +10,6 @@ a javascript implementation of LinkedList & DoublyLinkedList.
 
 ### [LinkedList](https://github.com/datastructures-js/linked-list/blob/master/LinkedList.md)
 
-### [DoublyLinkedList](https://github.com/datastructures-js/linked-list/blob/master/DoublyLinkedList.md)
-
 ## Build
 ```
 grunt build
